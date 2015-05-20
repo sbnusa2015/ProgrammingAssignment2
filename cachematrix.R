@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+Matris inversion have some benefit to caching the inverse of a matix rather computing repeatedly.
 makeCacheMatrix creates a list containg a function to
 
 set the value of the matrix
